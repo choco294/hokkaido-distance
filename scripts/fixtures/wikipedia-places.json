@@ -1,0 +1,811 @@
+{
+  "カナモトホール": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 83030,
+          "ns": 0,
+          "title": "CHEMISTRY",
+          "redirects": [
+            {
+              "pageid": 803589,
+              "ns": 0,
+              "title": "FLOATIN"
+            },
+            {
+              "pageid": 989455,
+              "ns": 0,
+              "title": "Chemistry"
+            },
+            {
+              "pageid": 1635391,
+              "ns": 0,
+              "title": "けみすとりー"
+            }
+          ],
+          "pageprops": {
+            "defaultsort": "けみすとりい",
+            "page_image_free": "Chemistry_Concert_at_Otakon_2011_-_58.jpg",
+            "wikibase_item": "Q482624"
+          }
+        },
+        {
+          "pageid": 199418,
+          "ns": 0,
+          "title": "YOSAKOIソーラン祭り",
+          "redirects": [
+            {
+              "pageid": 565075,
+              "ns": 0,
+              "title": "珍舞"
+            },
+            {
+              "pageid": 565086,
+              "ns": 0,
+              "title": "珍舞祭"
+            },
+            {
+              "pageid": 569675,
+              "ns": 0,
+              "title": "よさこいソーラン祭り"
+            },
+            {
+              "pageid": 1141474,
+              "ns": 0,
+              "title": "よさこいソーラン"
+            }
+          ],
+          "pageprops": {
+            "defaultsort": "よさこいそおらんまつり",
+            "page_image_free": "YOSAKOI_Soran_Festival.jpg",
+            "wikibase_item": "Q11255141"
+          }
+        },
+        {
+          "pageid": 1103977,
+          "ns": 0,
+          "title": "札幌市民ホール",
+          "coordinates": [
+            {
+              "lat": 43.06222222,
+              "lon": 141.35555556,
+              "primary": true,
+              "globe": "earth"
+            }
+          ],
+          "redirects": [
+            {
+              "pageid": 1676818,
+              "ns": 0,
+              "title": "札幌市民会館"
+            },
+            {
+              "pageid": 1676822,
+              "ns": 0,
+              "title": "札幌市公会堂"
+            },
+            {
+              "pageid": 3359032,
+              "ns": 0,
+              "title": "わくわくホリデーホール"
+            },
+            {
+              "pageid": 4811603,
+              "ns": 0,
+              "title": "カナモトホール"
+            }
+          ],
+          "pageprops": {
+            "defaultsort": "さつほろしみんほおる",
+            "kartographer_frames": "1",
+            "page_image_free": "Sapporo_Citizens_Hall_01.jpg",
+            "wikibase_item": "Q11521275"
+          }
+        },
+        {
+          "pageid": 1202408,
+          "ns": 0,
+          "title": "モニカ (曲)",
+          "pageprops": {
+            "defaultsort": "もにか",
+            "wikibase_item": "Q10851712"
+          }
+        },
+        {
+          "pageid": 3514488,
+          "ns": 0,
+          "title": "NORD (アイドルグループ)",
+          "pageprops": {
+            "defaultsort": "のおる",
+            "wikibase_item": "Q28686353"
+          }
+        },
+        {
+          "pageid": 4069110,
+          "ns": 0,
+          "title": "ボイコット (アルバム)",
+          "pageprops": {
+            "defaultsort": "ほいこつと",
+            "wikibase_item": "Q85873775"
+          }
+        },
+        {
+          "pageid": 4284068,
+          "ns": 0,
+          "title": "マスターピース〜傑作を君に〜",
+          "pageprops": {
+            "defaultsort": "ますたあひいす けつさくをきみに",
+            "wikibase_item": "Q104840117"
+          }
+        },
+        {
+          "pageid": 4454474,
+          "ns": 0,
+          "title": "黒岩司",
+          "pageprops": {
+            "defaultsort": "くろいわ つかさ",
+            "wikibase_item": "Q108597604"
+          }
+        }
+      ]
+    }
+  },
+  "北ガスアリーナ": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 30452,
+          "ns": 0,
+          "title": "北区 (名古屋市)",
+          "coordinates": [
+            {
+              "lat": 35.19416667,
+              "lon": 136.91158333,
+              "primary": true,
+              "globe": "earth"
+            }
+          ],
+          "redirects": [
+            {
+              "pageid": 4418838,
+              "ns": 0,
+              "title": "名古屋市北区"
+            }
+          ],
+          "pageprops": {
+            "defaultsort": "きたく",
+            "kartographer_frames": "1",
+            "kartographer_links": "1",
+            "page_image_free": "Meijo_Park.jpg",
+            "wikibase_item": "Q1207964"
+          }
+        },
+        {
+          "pageid": 53460,
+          "ns": 0,
+          "title": "中央区 (札幌市)",
+          "redirects": [
+            {
+              "pageid": 3979816,
+              "ns": 0,
+              "title": "札幌市中央区"
+            }
+          ],
+          "pageprops": {
+            "defaultsort": "ちゆうおうくさつほろし",
+            "page_image_free": "Hokkaido_Prefectural_Office02s5s4272.jpg",
+            "wikibase_item": "Q1079635"
+          }
+        },
+        {
+          "pageid": 71313,
+          "ns": 0,
+          "title": "江南市",
+          "coordinates": [
+            {
+              "lat": 35.33208,
+              "lon": 136.87067,
+              "primary": true,
+              "globe": "earth"
+            }
+          ],
+          "pageprops": {
+            "defaultsort": "こうなんし",
+            "kartographer_frames": "1",
+            "page_image_free": "Mandarafuji1.jpg",
+            "wikibase_item": "Q820496"
+          }
+        },
+        {
+          "pageid": 727872,
+          "ns": 0,
+          "title": "三菱ガス化学",
+          "redirects": [
+            {
+              "pageid": 739954,
+              "ns": 0,
+              "title": "三菱瓦斯化学"
+            },
+            {
+              "pageid": 1101067,
+              "ns": 0,
+              "title": "三菱ガス化学株式会社"
+            },
+            {
+              "pageid": 1258319,
+              "ns": 0,
+              "title": "三菱ガス科学"
+            },
+            {
+              "pageid": 4155757,
+              "ns": 0,
+              "title": "日本瓦斯化学工業"
+            }
+          ],
+          "pageprops": {
+            "defaultsort": "みつひしかすかかく",
+            "page_image_free": "Mitsubishi_building.jpg",
+            "wikibase_item": "Q1589451"
+          }
+        },
+        {
+          "pageid": 1506723,
+          "ns": 0,
+          "title": "エスポラーダ北海道",
+          "redirects": [
+            {
+              "pageid": 1604964,
+              "ns": 0,
+              "title": "エスポラーダ"
+            }
+          ],
+          "pageprops": {
+            "defaultsort": "えすほらたほつかいとう",
+            "wikibase_item": "Q3733194"
+          }
+        },
+        {
+          "pageid": 2076985,
+          "ns": 0,
+          "title": "札幌市",
+          "coordinates": [
+            {
+              "lat": 43.0619,
+              "lon": 141.3544,
+              "primary": true,
+              "globe": "earth"
+            }
+          ],
+          "redirects": [
+            {
+              "pageid": 723834,
+              "ns": 0,
+              "title": "札幌区"
+            },
+            {
+              "pageid": 2572313,
+              "ns": 0,
+              "title": "札幌市長"
+            },
+            {
+              "pageid": 4155043,
+              "ns": 0,
+              "title": "広報さっぽろ"
+            }
+          ],
+          "pageprops": {
+            "defaultsort": "さつほろし",
+            "kartographer_frames": "1",
+            "page_image_free": "SapporoCity_Skylines2020.jpg",
+            "wikibase_item": "Q37951"
+          }
+        },
+        {
+          "pageid": 2868844,
+          "ns": 0,
+          "title": "札幌市中央体育館",
+          "coordinates": [
+            {
+              "lat": 43.06777778,
+              "lon": 141.36361111,
+              "primary": true,
+              "globe": "earth"
+            }
+          ],
+          "redirects": [
+            {
+              "pageid": 4059695,
+              "ns": 0,
+              "title": "北ガスアリーナ札幌46"
+            }
+          ],
+          "pageprops": {
+            "defaultsort": "さつほろしちゆうおうたいいくかん",
+            "page_image_free": "Kita_Gas_Arena_Sapporo_46.jpg",
+            "wikibase_item": "Q17214203"
+          }
+        },
+        {
+          "pageid": 3620474,
+          "ns": 0,
+          "title": "港明",
+          "redirects": [
+            {
+              "pageid": 4574784,
+              "ns": 0,
+              "title": "港明町"
+            },
+            {
+              "pageid": 5139733,
+              "ns": 0,
+              "title": "名古屋アリーナ"
+            }
+          ],
+          "pageprops": {
+            "defaultsort": "こうめい",
+            "kartographer_frames": "1",
+            "kartographer_links": "1",
+            "page_image_free": "Nagoya_Expwy._Tokai_Route_20160213B.JPG",
+            "wikibase_item": "Q32216505"
+          }
+        }
+      ]
+    }
+  },
+  "プレミアホテル TSUBAKI": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 31130,
+          "ns": 0,
+          "title": "国道36号",
+          "redirects": [
+            {
+              "pageid": 869481,
+              "ns": 0,
+              "title": "室蘭街道"
+            },
+            {
+              "pageid": 1262013,
+              "ns": 0,
+              "title": "国道36号線"
+            },
+            {
+              "pageid": 4971317,
+              "ns": 0,
+              "title": "室蘭国道"
+            }
+          ],
+          "pageprops": {
+            "defaultsort": "こくとう036",
+            "page_image_free": "Japan_National_Route_36_Map.png",
+            "wikibase_item": "Q6157345"
+          }
+        },
+        {
+          "pageid": 199924,
+          "ns": 0,
+          "title": "北都交通 (北海道)",
+          "coordinates": [
+            {
+              "lat": 43.06054722,
+              "lon": 141.34776944,
+              "primary": true,
+              "globe": "earth"
+            }
+          ],
+          "redirects": [
+            {
+              "pageid": 319008,
+              "ns": 0,
+              "title": "特急せたな号"
+            },
+            {
+              "pageid": 319168,
+              "ns": 0,
+              "title": "特急はまなす号"
+            }
+          ],
+          "pageprops": {
+            "defaultsort": "ほくとこうつう",
+            "page_image_free": "北都ビル（本社）.jpg",
+            "wikibase_item": "Q11404223"
+          }
+        },
+        {
+          "pageid": 309582,
+          "ns": 0,
+          "title": "マリオット・インターナショナル",
+          "redirects": [
+            {
+              "pageid": 2046400,
+              "ns": 0,
+              "title": "マリオット・バケーション・クラブ・インターナショナル"
+            },
+            {
+              "pageid": 2046402,
+              "ns": 0,
+              "title": "スプリングヒル・スイート・バイ・マリオット"
+            },
+            {
+              "pageid": 2046404,
+              "ns": 0,
+              "title": "タウンプレイス・スイート・バイ・マリオット"
+            },
+            {
+              "pageid": 2046406,
+              "ns": 0,
+              "title": "マリオット・コンフェレンス・センター"
+            },
+            {
+              "pageid": 2046408,
+              "ns": 0,
+              "title": "フェアフィールド・イン・バイ・マリオット"
+            },
+            {
+              "pageid": 2046410,
+              "ns": 0,
+              "title": "レジデンス・イン・バイ・マリオット"
+            },
+            {
+              "pageid": 2046414,
+              "ns": 0,
+              "title": "マリオット・エグゼクティブ・アパートメント"
+            },
+            {
+              "pageid": 2490494,
+              "ns": 0,
+              "title": "マリオット・マーキス"
+            },
+            {
+              "pageid": 4436862,
+              "ns": 0,
+              "title": "マリオット・ホテル"
+            },
+            {
+              "pageid": 4436863,
+              "ns": 0,
+              "title": "マリオットホテル"
+            }
+          ],
+          "pageprops": {
+            "defaultsort": "まりおつといんたあなしよなる",
+            "page_image_free": "Marriott_International_Headquarters_01.jpg",
+            "wikibase_item": "Q1141173"
+          }
+        },
+        {
+          "pageid": 1167735,
+          "ns": 0,
+          "title": "トーコーシティホテル松本",
+          "pageprops": {
+            "defaultsort": "とおこおしていほてるまつもと",
+            "page_image_free": "トーコーシティホテル松本.jpg",
+            "wikibase_item": "Q11322342"
+          }
+        },
+        {
+          "pageid": 1290648,
+          "ns": 0,
+          "title": "千歳線 (北海道中央バス)",
+          "redirects": [
+            {
+              "pageid": 1320141,
+              "ns": 0,
+              "title": "高速ちとせ号"
+            }
+          ],
+          "pageprops": {
+            "defaultsort": "ちとせせん",
+            "wikibase_item": "Q11491577"
+          }
+        },
+        {
+          "pageid": 1595094,
+          "ns": 0,
+          "title": "旭町 (札幌市)",
+          "pageprops": {
+            "defaultsort": "あさひまち",
+            "page_image_free": "HokkaiGakuen2004-11-4.jpg",
+            "wikibase_item": "Q11511838"
+          }
+        },
+        {
+          "pageid": 2779459,
+          "ns": 0,
+          "title": "プレミアホテル ―TSUBAKI― 札幌",
+          "coordinates": [
+            {
+              "lat": 43.05444444,
+              "lon": 141.36525,
+              "primary": true,
+              "globe": "earth"
+            }
+          ],
+          "redirects": [
+            {
+              "pageid": 3298645,
+              "ns": 0,
+              "title": "ルネッサンスサッポロホテル"
+            },
+            {
+              "pageid": 4014817,
+              "ns": 0,
+              "title": "ラマダ・ルネッサンス・ホテル・サッポロ"
+            },
+            {
+              "pageid": 4014818,
+              "ns": 0,
+              "title": "ラマダルネッサンスホテルサッポロ"
+            }
+          ],
+          "pageprops": {
+            "defaultsort": "ふれみあほてるつはきさつほろ",
+            "page_image_free": "151011_Premier_Hotel-TSUBAKI-Sapporo_Hokkaido_Japan10s3.jpg",
+            "wikibase_item": "Q17214571"
+          }
+        },
+        {
+          "pageid": 3494070,
+          "ns": 0,
+          "title": "プレミアホテルグループ",
+          "pageprops": {
+            "defaultsort": "ふれみあほてるくるうふ",
+            "wikibase_item": "Q28684757"
+          }
+        }
+      ]
+    }
+  },
+  "グランドメルキュール札幌": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 105467,
+          "ns": 0,
+          "title": "西11丁目駅",
+          "coordinates": [
+            {
+              "lat": 43.05861111,
+              "lon": 141.34102778,
+              "primary": true,
+              "globe": "earth"
+            }
+          ],
+          "pageprops": {
+            "defaultsort": "にし11ちようめ",
+            "kartographer_frames": "1",
+            "page_image_free": "Nishi_juitchome_sta_Exit_1.png",
+            "wikibase_item": "Q3563700"
+          }
+        },
+        {
+          "pageid": 331510,
+          "ns": 0,
+          "title": "ハイアットホテルアンドリゾーツ",
+          "redirects": [
+            {
+              "pageid": 989745,
+              "ns": 0,
+              "title": "グランドハイアット"
+            },
+            {
+              "pageid": 989746,
+              "ns": 0,
+              "title": "ハイアットリージェンシー"
+            },
+            {
+              "pageid": 989747,
+              "ns": 0,
+              "title": "パークハイアット"
+            },
+            {
+              "pageid": 2333248,
+              "ns": 0,
+              "title": "ハイアット・リージェンシ"
+            },
+            {
+              "pageid": 2333253,
+              "ns": 0,
+              "title": "ハイアット・リージェンシー"
+            },
+            {
+              "pageid": 2333258,
+              "ns": 0,
+              "title": "グランド・ハイアット"
+            },
+            {
+              "pageid": 2948301,
+              "ns": 0,
+              "title": "ハイアットホテル"
+            },
+            {
+              "pageid": 3334222,
+              "ns": 0,
+              "title": "ハイアットホテルアンドリゾート"
+            },
+            {
+              "pageid": 4601026,
+              "ns": 0,
+              "title": "ハイアットリージェンシー東京ベイ"
+            },
+            {
+              "pageid": 4809398,
+              "ns": 0,
+              "title": "ハイアットプレイス京都"
+            },
+            {
+              "pageid": 5153611,
+              "ns": 0,
+              "title": "ハイアット ホテル アンド リゾーツ"
+            },
+            {
+              "pageid": 5210462,
+              "ns": 0,
+              "title": "キャプションバイハイアットなんば大阪"
+            }
+          ],
+          "pageprops": {
+            "defaultsort": "はいあつとほてるあんとりそうつ",
+            "page_image_free": "Grand_Hyatt_Tokyo.JPG",
+            "wikibase_item": "Q1425063"
+          }
+        },
+        {
+          "pageid": 331559,
+          "ns": 0,
+          "title": "アコーホテルズ",
+          "redirects": [
+            {
+              "pageid": 587420,
+              "ns": 0,
+              "title": "フォーミュラ1 (ホテルブランド)"
+            },
+            {
+              "pageid": 1560620,
+              "ns": 0,
+              "title": "アコーホテル"
+            },
+            {
+              "pageid": 4611857,
+              "ns": 0,
+              "title": "イビススタイルズ東京ベイ"
+            },
+            {
+              "pageid": 4914179,
+              "ns": 0,
+              "title": "アコー"
+            },
+            {
+              "pageid": 5139342,
+              "ns": 0,
+              "title": "メルキュールホテル"
+            },
+            {
+              "pageid": 5139343,
+              "ns": 0,
+              "title": "グランドメルキュール"
+            }
+          ],
+          "pageprops": {
+            "defaultsort": "あこおほてるす",
+            "page_image_free": "Logo_Accor.png",
+            "wikibase_item": "Q212599"
+          }
+        },
+        {
+          "pageid": 466087,
+          "ns": 0,
+          "title": "DAIWA ROYAL HOTEL",
+          "redirects": [
+            {
+              "pageid": 735347,
+              "ns": 0,
+              "title": "北九州八幡ロイヤルホテル"
+            },
+            {
+              "pageid": 2078920,
+              "ns": 0,
+              "title": "大和リゾート"
+            },
+            {
+              "pageid": 3333572,
+              "ns": 0,
+              "title": "伊勢志摩ロイヤルホテル"
+            },
+            {
+              "pageid": 3339897,
+              "ns": 0,
+              "title": "信州松代ロイヤルホテル"
+            },
+            {
+              "pageid": 3361062,
+              "ns": 0,
+              "title": "長浜ロイヤルホテル"
+            },
+            {
+              "pageid": 3779991,
+              "ns": 0,
+              "title": "ダイワロイヤルホテルズ"
+            },
+            {
+              "pageid": 3870266,
+              "ns": 0,
+              "title": "ダイワロイヤルホテルシティ"
+            }
+          ],
+          "pageprops": {
+            "defaultsort": "たいわろいやるほてる",
+            "wikibase_item": "Q11317076"
+          }
+        },
+        {
+          "pageid": 2354436,
+          "ns": 0,
+          "title": "ザ・ライオンズ大通公園タワー",
+          "coordinates": [
+            {
+              "lat": 43.05975,
+              "lon": 141.34211111,
+              "primary": true,
+              "globe": "earth"
+            }
+          ],
+          "pageprops": {
+            "defaultsort": "さらいおんすおおとおりこうえんたわ",
+            "page_image_free": "Japan_Hokkaido_Sapporo_urban_location_map.webp",
+            "wikibase_item": "Q11306788"
+          }
+        },
+        {
+          "pageid": 2646078,
+          "ns": 0,
+          "title": "村瀬紗英",
+          "pageprops": {
+            "defaultsort": "むらせ さえ",
+            "page_image_free": "Sae_Murase_in_December_2024.png",
+            "wikibase_item": "Q12595519"
+          }
+        },
+        {
+          "pageid": 3536051,
+          "ns": 0,
+          "title": "グランドメルキュール札幌大通公園",
+          "coordinates": [
+            {
+              "lat": 43.06083333,
+              "lon": 141.34,
+              "primary": true,
+              "globe": "earth"
+            }
+          ],
+          "redirects": [
+            {
+              "pageid": 4917918,
+              "ns": 0,
+              "title": "ロイトン札幌"
+            }
+          ],
+          "pageprops": {
+            "defaultsort": "くらんとめるきゆうるさつほろおおとおりこうえん",
+            "page_image_free": "Royton-Sapporo01.JPG",
+            "wikibase_item": "Q28052505"
+          }
+        },
+        {
+          "pageid": 3838730,
+          "ns": 0,
+          "title": "北○条西 (札幌市)",
+          "pageprops": {
+            "defaultsort": "きた しようにし",
+            "wikibase_item": "Q60985766"
+          }
+        }
+      ]
+    }
+  }
+}

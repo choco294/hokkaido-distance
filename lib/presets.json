@@ -1,0 +1,110 @@
+{
+  "omo7asahikawa": {
+    "id": "osm-W-141805631",
+    "name": "OMO7旭川 by 星野リゾート",
+    "detail": "北海道 旭川市 6条通9丁目 · ホテル（旧：旭川グランドホテル）",
+    "lat": 43.770468,
+    "lng": 142.364687,
+    "region": "hokkaido",
+    "source": "施設公式サイト"
+  },
+  "grand": {
+    "id": "osm-N-12292997494",
+    "name": "札幌グランドホテル",
+    "detail": "北海道 札幌市 中央区 北1条西4丁目 · ホテル",
+    "lat": 43.062792,
+    "lng": 141.3505593,
+    "region": "hokkaido",
+    "source": "OpenStreetMap"
+  },
+  "escon": {
+    "id": "osm-W-949639226",
+    "name": "エスコンフィールドHOKKAIDO",
+    "detail": "北海道 北広島市 Fビレッジ · ES CON FIELD HOKKAIDO · 競技場",
+    "lat": 42.9901478,
+    "lng": 141.5497986,
+    "region": "hokkaido",
+    "source": "OpenStreetMap"
+  },
+  "tokyo": {
+    "id": "osm-N-2149761647",
+    "name": "東京駅",
+    "detail": "東京都 千代田区",
+    "lat": 35.6812546,
+    "lng": 139.766706,
+    "region": "japan",
+    "source": "OpenStreetMap"
+  },
+  "osaka": {
+    "id": "osm-N-346685291",
+    "name": "大阪駅",
+    "detail": "大阪府 大阪市 北区",
+    "lat": 34.7022133,
+    "lng": 135.4955732,
+    "region": "japan",
+    "source": "OpenStreetMap"
+  },
+  "nagoya": {
+    "id": "osm-N-6689865382",
+    "name": "名古屋駅",
+    "detail": "愛知県 名古屋市 中村区",
+    "lat": 35.1687934,
+    "lng": 136.882394,
+    "region": "japan",
+    "source": "OpenStreetMap"
+  },
+  "makomanai": {
+    "id": "osm-N-1768341570",
+    "name": "真駒内セキスイハイムアイスアリーナ",
+    "detail": "北海道 札幌市 南区",
+    "lat": 42.9993975,
+    "lng": 141.3473833,
+    "region": "hokkaido",
+    "source": "OpenStreetMap"
+  },
+  "kitaeru": {
+    "id": "osm-W-480981850",
+    "name": "北海きたえーる",
+    "detail": "北海道 札幌市 豊平区",
+    "lat": 43.0439846,
+    "lng": 141.3762486,
+    "region": "hokkaido",
+    "source": "OpenStreetMap"
+  },
+  "sapporo": {
+    "id": "osm-N-4086852685",
+    "name": "札幌駅",
+    "detail": "北海道 札幌市 北区",
+    "lat": 43.0686365,
+    "lng": 141.3509218,
+    "region": "hokkaido",
+    "source": "OpenStreetMap"
+  },
+  "otaru": {
+    "id": "osm-N-8082693151",
+    "name": "小樽駅",
+    "detail": "北海道 小樽市",
+    "lat": 43.1975759,
+    "lng": 140.9933746,
+    "region": "hokkaido",
+    "source": "OpenStreetMap"
+  },
+  "asahikawa": {
+    "id": "osm-N-264430273",
+    "name": "旭川駅",
+    "detail": "北海道 旭川市 神楽",
+    "lat": 43.7627501,
+    "lng": 142.3579263,
+    "region": "hokkaido",
+    "source": "OpenStreetMap"
+  },
+  "dome": {
+    "id": "osm-W-127094824",
+    "name": "大和ハウス プレミストドーム",
+    "detail": "北海道札幌市豊平区 · 札幌ドーム",
+    "lat": 43.0151626,
+    "lng": 141.4096925,
+    "region": "hokkaido",
+    "source": "OpenStreetMap"
+  }
+}
